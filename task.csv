@@ -1,0 +1,6 @@
+task,duration,deadline,priority
+RUN,2,10,1
+Homework1,2,12,2
+Homework2,4,24,2
+Dinner,1,16,3
+Lunch,1,14,3
